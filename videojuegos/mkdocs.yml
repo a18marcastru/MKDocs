@@ -1,1 +1,9 @@
-site_name: My Docs
+site_name: Videojuegos
+
+nav:
+ - Home: index.md
+ - Demon's Souls: demons_souls.md
+ - Final Fantasy 7 Remake: final_fantasy_7_remake.md
+ - Hades: hades.md
+ - Persona 5 Royal: persona_5_royal.md
+ - The Last of Us Parte 2: the_last_of_us_2.md
