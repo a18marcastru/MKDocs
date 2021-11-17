@@ -1,5 +1,5 @@
 #Hades
-##Hecho por Supergiant Games
+###Hecho por Supergiant Games
 #####Hades es un juego de rol de acción roguelike desarrollado y publicado por Supergiant Games. 
 #####El juego fue lanzado para Microsoft Windows, Xbox One, Series X, macOS, y Nintendo Switch el 17 de septiembre de 2020, que siguió a un lanzamiento de acceso anticipado en diciembre de 2018.
 #####Los jugadores controlan a Zagreus, el hijo de Hades, mientras intenta escapar del Inframundo para llegar al Monte Olimpo, en ocasiones con la ayuda de los obsequios que le otorgan los otros olímpicos. Cada carrera desafía al jugador a través de una serie aleatoria de habitaciones pobladas de enemigos y recompensas, y el jugador usa una combinación de su ataque de arma principal, poder de carrera y habilidad mágica para derrotarlos mientras evita el daño para progresar lo más lejos posible. 
