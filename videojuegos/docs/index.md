@@ -1,17 +1,13 @@
-# Welcome to MkDocs
+# Los 5 mejores videojuegos del 2020
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+######En estos cinco artículos conocerás información sobre los mejores videojuegos de 2020.
 
-## Commands
+## Los 5 mejores videojuegos
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+* [The Last of Us 2](the_last_of_us_2.md).
+* [Demon's Souls](demons_souls.md).
+* [Final Fantasy VII Remake](final_fantasy_7_remake.md).
+* [Hades](hades.md).
+* [Persona 5 Royal](persona_5_royal.md).
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+![2020](./img/2020.jpg)
