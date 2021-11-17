@@ -1,5 +1,8 @@
 site_name: Videojuegos
 
+theme:
+  name: material
+
 nav:
  - Home: index.md
  - Demon's Souls: demons_souls.md
@@ -7,3 +10,14 @@ nav:
  - Hades: hades.md
  - Persona 5 Royal: persona_5_royal.md
  - The Last of Us Parte 2: the_last_of_us_2.md
+
+extra:
+ social:
+   - icon: fontawesome/brands/github
+     link: https://github.com/a18marcastru
+     name: GitHub
+   - icon: fontawesome/brands/instagram
+     link: https://wwww.instagram.com/
+     name: Instagram
+
+copyright: Copyright &copy 2021 - 2022 Marc Castro
