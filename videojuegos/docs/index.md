@@ -1,6 +1,6 @@
 # Los 5 mejores videojuegos del 2020
 
-#####En estos cinco artículos conocerás información sobre los mejores videojuegos de 2020.
+##### En estos cinco artículos conocerás información sobre los mejores videojuegos de 2020.
 
 ## Los 5 mejores videojuegos
 
