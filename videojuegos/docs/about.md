@@ -1,6 +1,8 @@
 #Footer
 #####Para que saliera el footer, es cambiar un tema llamado material en el archivo mkdocs.yml y añadir un extra para que salga cierta informacion que quieres mostrar:
 
+##mkdocs.yml
+```
 # Tema
 theme:
   name: material
@@ -17,4 +19,4 @@ extra:
 
 # Copyrigth
 copyright: Copyright &copy 2021 - 2022 Marc Castro
- 
+``` 
